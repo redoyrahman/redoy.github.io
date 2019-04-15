@@ -1,0 +1,65 @@
+@media screen and (min-width: 1450px) {
+    /*.container-fluid {
+        max-width: 1630px;
+    }*/
+
+
+}
+
+@media screen and (max-width: 1450px) {
+
+}
+
+@media screen and (max-width: 1350px) {
+
+}
+
+@media screen and (max-width: 1200px) {
+    .contact-content{
+        margin-top: 0;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 785px) {
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .front h1 {
+        font-size: 25px;
+    }
+
+    .front span {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+
+}
+
+@media screen and (max-width: 400px) {
+
+}
+
+@media screen and (max-width: 320px) {
+}
+
+
+

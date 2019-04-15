@@ -43,6 +43,13 @@
     .front span {
         font-size: 50px;
     }
+
+    .mt-25{
+    margin-top: auto;
+}
+    .box{
+        margin-bottom: 10px;
+    }
 }
 
 @media screen and (max-width: 580px) {

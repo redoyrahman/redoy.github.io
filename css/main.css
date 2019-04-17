@@ -18,6 +18,9 @@ body {
 .mobile-menu-active.mean-container .mean-bar {
     background: unset;
 }
+.mean-container a.meanmenu-reveal {
+    color: #555;
+}
 .mean-container .mean-bar {
     width: 100%;
     position: absolute;

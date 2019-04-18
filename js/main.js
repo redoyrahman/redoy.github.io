@@ -16,7 +16,4 @@ jQuery(document).ready(function () {
             'linear'
         )
     });
-    $(".remove").click(function(){
-        $(".mean-bar a").removeClass("meanclose");
-    });
 });
